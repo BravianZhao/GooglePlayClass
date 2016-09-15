@@ -1,0 +1,18 @@
+# day01
+
+01. 项目简介
+02. 项目演示
+03. 服务器3种搭建方式
+04. 创建工程,建立包,书写工具类
+05. 导入一些工具类
+06. 创建仓库,纳入svn管理,添加忽略列表,从svn服务器checkout项目
+07. ActionBar图标部分的学习以及设置
+08. 引入DrawerLayout和ActionBarDrawerToggle
+09. PagerSlidingTabStrip下载,运行Demo,查看效果,引入到GooglePlay中
+10. 引入PagerslidingTabStrip到布局中_通过ButterKnife.jar和对应的插件初始化相关控件
+11. 通过工厂设计模式创建Fragment_为ViewPager设置Adapter_PagerslidingTabStrip和ViewPager进行绑定
+12. 查看PagerSlidingTabStrip默认自定义属性效果_PagerSlidingTabStrip源码的查看
+13. 通过添加4个自定义属性对PagerSlidingTabStrip进行拓展
+14. 修改PagerSlidingTabStrip的Indicator为三角形
+15. FragmentPagerAdapter和FragementStatePagerAdapter的区别
+16. FramgentPagerAdapter使用notifyDataSetChanged无效问题演示分析

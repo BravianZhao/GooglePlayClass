@@ -1,0 +1,22 @@
+{
+  "plugins": [
+        "expandable-chapters"
+        ,"page-toc"
+        ,"anchor-navigation"
+        ,"zealar"
+        ,"image-captions"
+        ,"fancybox"
+        ,"back-to-top-button"
+    ],
+  "pluginsConfig": {
+        "expandable-chapters":{
+
+        },"image-captions":{
+            "caption": "Image - _CAPTION_"
+        },"fancybox":{
+            "helpers": {
+                "buttons": {}
+            }
+        }
+    }
+}
