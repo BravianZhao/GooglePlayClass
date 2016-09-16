@@ -1,4 +1,4 @@
-# 07_控制 ActionBar图标部分
+# 控制 ActionBar图标部分
 ## 学习目标
 - 回忆 google 引入 ActionBar 的历史原因，理解 ActionBar 的作用
 - 列举 ActionBar 的4大组成部分
