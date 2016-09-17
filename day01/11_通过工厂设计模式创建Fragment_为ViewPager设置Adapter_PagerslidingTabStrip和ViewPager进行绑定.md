@@ -4,7 +4,7 @@
 - 使用 PagerSlidingTabStrip 和 ViewPager 实现带 tab 栏的滑动页面
 - 理解工厂模式的作用
 
-## 开堂白
+## 开场白
 S:
 
 E:

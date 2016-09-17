@@ -6,7 +6,7 @@
 - 理解 ActionBarDrawerToggle 的作用
 - 实现 ActionBar 和 DrawerLayout 联动
 
-## 开堂白
+## 开场白
 S:
 
 E:

@@ -3,7 +3,7 @@
 - 在布局文件中使用 PagerslidingTabStrip
 - 使用 Butterknife 和其插件进行控件注入
 
-## 开堂白
+## 开场白
 S:
 
 E:
@@ -30,7 +30,7 @@ E:
 - 依赖 maven 服务器上的 PagerslidingTabStrip 库
 - 依赖 PagerslidingTabStrip module
 
-[步骤详情](1001.添加对 PagerslidingTabStrip 库的依赖.html)
+[步骤详情](10.01添加对 PagerslidingTabStrip 库的依赖.html)
 
 #### 2. 在布局文件中使用 PagerslidingTabStrip
 一般的 UI 效果图中，PagerslidingTabStrip 在布局中放在 ViewPager 上边，在 MainActivity 的布局中修改内容区域布局
@@ -66,7 +66,7 @@ E:
 
 ### 通过 ButterKnife 和插件初始化控件
 #### 1. 添加对 ButterKnife jar 包的依赖
-[步骤详情](1002.添加对 ButterKnife jar 包的依赖.html)
+[步骤详情](10.02添加对 ButterKnife jar 包的依赖.html)
 
 #### 2. 使用插件自动产生 View 绑定
 使用 ButterKnife Zelezny 插件自动产生 View 绑定/注入
@@ -75,7 +75,7 @@ E:
 2. 把光标放在代码中布局文件id位置
 3. 右键 -> Generate -> Generate Butterknife Injects
 
-[步骤详情](1003.使用 ButterKnife Zelezny 插件自动产生 View 绑定.html)
+[步骤详情](10.03使用 ButterKnife Zelezny 插件自动产生 View 绑定.html)
 
 ```java
 @InjectView(R.id.main_tabs)

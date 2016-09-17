@@ -3,7 +3,7 @@
 - 理解FragmentPagerAdapter和FragementStatePagerAdapter的区别和使用场景
 - 学会通过打印日志分析程序的设计机制
 
-## 开堂白
+## 开场白
 S:
 
 E:

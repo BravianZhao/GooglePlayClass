@@ -6,7 +6,7 @@
 - 分析 PagerSlidingTabStrip 抛出 `ViewPager does not have adapter instance.` 的原因
 - 分析为什么 ViewPager 和 PagerSlidingTabStrip 绑定之后，要给 ViewPager 设置 onPageChangeListener 只能通过 PagerSlidingTabStrip 设置
 
-## 开堂白
+## 开场白
 S:
 
 E:
