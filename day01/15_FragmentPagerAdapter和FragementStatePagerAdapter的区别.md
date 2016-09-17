@@ -13,6 +13,7 @@ E:
 
 * FragmentStatePagerAdapter:该 PagerAdapter 的实现将只保留当前页面，当页面离开视线后，就会被消除，释放其资源，而只是保存页面的状态；而在页面需要显示时，生成新的页面(就像 ListView 的实现一样)。这么实现的好处就是当拥有大量的页面时，不必在内存中占用大量的内存
 
+```  
     FragmentStatePagerAdapter
     对应的fragment会重复的初始化,不会缓存fragment,其实会缓存saveinstance
     FragmentStatePagerAdapter孩子多.而且变换比较大.
@@ -43,6 +44,7 @@ E:
     ----------初始化 推荐----------
     ----------初始化 分类----------
     ----------初始化 排行----------
+```
 
 ## 重点难点讲解
 
